@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.phonegap.getting.started"
-	version 	= "1.0.0">
+	id		= "com.samuel-consultancy.alphaeightapp"
+	version 	= "0.1.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>Alphaeight</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		A quick demo for Alphaeight
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
+	<author href="http://samuelcon.github.com"
+		email="samuel@samuel-consultancy.com">
 		Andrew Lunny
 	</author>
 
